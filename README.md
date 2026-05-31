@@ -4,6 +4,15 @@
 
 This Power BI dashboard provides insights into e-commerce sales performance through interactive visualizations and KPI tracking.
 
+## Dataset
+
+The dashboard uses two datasets:
+
+- Orders.csv
+- Details.csv
+
+These files contain order information, sales amount, profit, quantity, category, sub-category, payment mode, and customer details used for analysis.
+
 The dashboard enables stakeholders to monitor:
 
 - Revenue
